@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GustavoBrPereira/CleanArchitecture_SOLID/issues"
   },
-  "homepage": "https://github.com/GustavoBrPereira/CleanArchitecture_SOLID#readme"
+  "homepage": "https://github.com/GustavoBrPereira/CleanArchitecture_SOLID#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.1.0"
+  }
 }
